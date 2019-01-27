@@ -1,5 +1,7 @@
 # Graphql Param Transform
 
+[https://vija02.github.io/graphql-param-transform/](https://vija02.github.io/graphql-param-transform/)
+
 A really quick app to transform graphql schema.
 
 ### Example
@@ -29,7 +31,3 @@ $id: Int, $transactionId: Int, $storeId: Int!, $transactionDate: Datetime!, $tot
 ## Motivation
  
 I keep having to do this so often, so -w-
-
-## TODO
-
-Publish this somewhere
