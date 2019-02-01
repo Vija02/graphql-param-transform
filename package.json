@@ -1,7 +1,7 @@
 {
 	"name": "graphql-param-transform",
 	"version": "0.1.0",
-  "homepage": "http://vija02.github.io/graphql-param-transform",
+	"homepage": "http://gql.michaelsalim.co.uk",
 	"dependencies": {
 		"react": "^16.7.0",
 		"react-dom": "^16.7.0",
