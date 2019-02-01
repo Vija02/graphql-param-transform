@@ -1,6 +1,6 @@
 # Graphql Param Transform
 
-[https://vija02.github.io/graphql-param-transform/](https://vija02.github.io/graphql-param-transform/)
+[https://gql.michaelsalim.co.uk/](https://gql.michaelsalim.co.uk/)
 
 A really quick app to transform graphql schema.
 
